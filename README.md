@@ -47,7 +47,7 @@ Unlike a static FAQ page, it maintains context across a multi-turn conversation 
 - HTML, CSS, JavaScript — web interface
 
 **Hosting**
-- AWS Cloud
+- AWS Cloud(Future Scope)
 
 ## 🔎 How It Works
 
